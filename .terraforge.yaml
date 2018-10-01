@@ -6,3 +6,6 @@ Environments:
   dev1:
     AWSAccountId: '12345678910'
     Region: us-east-1
+  qc1:
+    AWSAccountId: '12345678910'
+    Region: us-east-1
