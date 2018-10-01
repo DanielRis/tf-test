@@ -11,7 +11,7 @@ pipeline {
       steps {
         script {
           terraforge = readYaml(
-            file = ".terraforge.yaml"
+            file: ".terraforge.yaml"
           )
         }
         echo file
